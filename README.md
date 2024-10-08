@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassnain Ali</h1>
 <h3 align="center">A passionate React and React Native developer with years of experience in developing outstanding mobile and web applications along with years of experience in integration Rest API's.</h3>
-<img  align ="right" alt="Image" width="400" src="https://media.licdn.com/dms/image/v2/D4D35AQFEInze-UK4DQ/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1728284531588?e=1729004400&v=beta&t=woOswB2-Hv1M-oarhNycsUX8iw4QgZ3BSEASK2gH8mA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassnain0&label=Profile%20views&color=0e75b6&style=flat" alt="hassnain0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassnain0" alt="hassnain0" /></a> </p>
