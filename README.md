@@ -2,11 +2,13 @@
 <h3 align="center">A passionate React and React Native developer with years of experience in developing outstanding mobile and web applications along with years of experience in integration Rest API's.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassnain0&label=Profile%20views&color=0e75b6&style=flat" alt="hassnain0" /> </p>
 
-- 🌱 I’m currently learning **React Native Node JS**
-- 💬 Ask me about **React, React JS, Restful API's, firebase, Postgress, MySQL**
-- 📫 How to reach me **hassnainalidayo6@gmail.com**
-- 👯 I'm looking to collaborate on Open Source Projects
-- ⚡ Hobbies **Coding, GYM**
+👋 I'm currently learning React , React Native and Node.js!
+
+💬 I'm happy to chat about React, React.js, RESTful APIs, Firebase, PostgreSQL, and MySQL.
+📫 Feel free to reach out: hassnainalidayo6@gmail.com
+👯 Excited to collaborate on open-source projects!
+⚡ In my free time, I enjoy coding and hitting the gym.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
