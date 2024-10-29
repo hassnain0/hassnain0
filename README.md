@@ -4,10 +4,10 @@
 
 👋 I'm currently learning React , React Native and Node.js!
 
-💬 I'm happy to chat about React, React.js, RESTful APIs, Firebase, PostgreSQL, and MySQL.
-📫 Feel free to reach out: hassnainalidayo6@gmail.com
-👯 Excited to collaborate on open-source projects!
-⚡ In my free time, I enjoy coding and hitting the gym.
+- 💬 I'm happy to chat about **React, React.js, RESTful APIs, Firebase, PostgreSQL, and MySQL**.
+- 📫 Feel free to reach out: **hassnainalidayo6@gmail.com**
+- 👯 Excited to collaborate on open-source projects!
+- ⚡ In my free time, I enjoy coding and hitting the gym.
 
 
 <h3 align="left">Connect with me:</h3>
